@@ -10,7 +10,7 @@ export default function Index({
 }) {
   return (
     <div>
-      <p>You can overwrite everything from Line 9 onward!</p>
+      <MyV0Component />
     </div>
   )
 }
